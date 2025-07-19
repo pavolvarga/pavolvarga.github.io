@@ -8,9 +8,9 @@
 | 2024 | London               | Samsung Galaxy A55              | [London 2024](https://photos.app.goo.gl/aPvLPXguFvojxjXz6)               |
 | 2024 | Bratislava AC/DC     | Samsung Galaxy A55              | [Bratislava AC/DC 2024](https://photos.app.goo.gl/HdDdoTab8mtWidTn8)     |
 | 2024 | Iceland              | Nikon D5100, Samsung Galaxy A55 | [Iceland 2024](https://photos.app.goo.gl/XoyT7oBpu8ae6LNTA)              |
-| 2024 | Germany              | Nikon D5100                     | [Germany 2024](https://photos.app.goo.gl/XEwA3nbqc1onVeaU9)              |
+| 2024 | Germany              | Nikon D5100                     | [Germany 2024](https://photos.app.goo.gl/beH2YRJUxBSEd9Qg8)              |
 | 2023 | Praha                | Nikon D5100                     | [Praha 2023](https://photos.app.goo.gl/XEwA3nbqc1onVeaU9)                |
-| 2023 | Austria & Germany    | Nikon D5100                     | [Austria & Germany 2023](https://photos.app.goo.gl/nNUhpHcBPZKPfbFP7)    |
+| 2023 | Austria & Germany    | Nikon D5100                     | [Austria & Germany 2023](https://photos.app.goo.gl/M1BvFDBURHCRxjjf7)    |
 | 2022 | SIAF                 | Nikon D5100                     | [SIAF 2022](https://photos.app.goo.gl/nNUhpHcBPZKPfbFP7)                 |
 | 2022 | Amsterdam            | Nikon D5100                     | [Amsterdam 2022](https://photos.app.goo.gl/ib2WrbQwuKDnDxVt9)            |
 | 2022 | Germany              | Nikon D5100                     | [Germany 2022](https://photos.app.goo.gl/YJpenynuECFkuipX9)              |
