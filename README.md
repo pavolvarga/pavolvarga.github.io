@@ -3,6 +3,7 @@
 
 | Year | Place                | Camera Type                     | Link                                                                     |
 |------|----------------------|---------------------------------|--------------------------------------------------------------------------|
+| 2025 | Norway               | Nikon Z6_3, Samsung Galaxy A55  | [Norway 2025](https://photos.app.goo.gl/7hPxoW6gxutBadP66)               |
 | 2025 | Germany              | Nikon Z6_3, Samsung Galaxy A55  | [Germany 2025](https://photos.app.goo.gl/iB3kzovUvUm5eCAy7)              |
 | 2025 | Vienna               | Nikon Z6_3, Nikon D5100         | [Vienna 2025](https://photos.app.goo.gl/pLPt4516dmGMSkR97)               |
 | 2024 | London               | Samsung Galaxy A55              | [London 2024](https://photos.app.goo.gl/aPvLPXguFvojxjXz6)               |
